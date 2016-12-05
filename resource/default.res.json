@@ -1,8 +1,12 @@
 {
 	"groups": [
 		{
-			"keys": "level_0001_background_png,l1_json,elementbg1_png,elementbg2_png,level_0005_foreground_png,level_0005_background_png,level_0004_foreground_png,level_0003_foreground_png,level_0002_foreground_png,level_0002_background_png,level_0001_foreground_png,e1_png,e3_png,e4_png,e5_png,e0_png,chanziactive_png,chanzi_png,zhenglieactive_png,zhenglie_png,zhenghangactive_png,zhenghang_png,tongsedisable_png,tongseactive_png,tongse_png,zhadan_png,zhadanactive_png,zhadandisable_png,chanzidisable_png,zhengliedisable_png,zhenghangdisable_png,number_fnt,number_png,numberdisable_fnt,numberdisable_png,checkmark_png,levelregbg_png,foucsmc_json,foucsmc_png,e0foucs_png,e1foucs_png,e2foucs_png,e3foucs_png,e4foucs_png,e5foucs_png,e2_png,gameovertitle_png,fail_png,success_png",
+			"keys": "level_0001_background_png,l1_json,elementbg1_png,elementbg2_png,level_0005_foreground_png,level_0005_background_png,level_0004_foreground_png,level_0003_foreground_png,level_0002_foreground_png,level_0002_background_png,level_0001_foreground_png,e1_png,e3_png,e4_png,e5_png,e0_png,chanziactive_png,chanzi_png,zhenglieactive_png,zhenglie_png,zhenghangactive_png,zhenghang_png,tongsedisable_png,tongseactive_png,tongse_png,zhadan_png,zhadanactive_png,zhadandisable_png,chanzidisable_png,zhengliedisable_png,zhenghangdisable_png,number_fnt,number_png,numberdisable_fnt,numberdisable_png,checkmark_png,levelregbg_png,foucsmc_json,foucsmc_png,e0foucs_png,e1foucs_png,e2foucs_png,e3foucs_png,e4foucs_png,e5foucs_png,e2_png,gameovertitle_png,fail_png,success_png,konoso",
 			"name": "game"
+		},
+		{
+			"name": "preload",
+			"keys": "konoso_mp3"
 		}
 	],
 	"resources": [
@@ -270,6 +274,16 @@
 			"url": "res/success.png",
 			"type": "image",
 			"name": "success_png"
+		},
+		{
+			"url": "res/konoso.mp3",
+			"type": "sound",
+			"name": "konoso"
+		},
+		{
+			"name": "konoso_mp3",
+			"type": "sound",
+			"url": "res/konoso.mp3"
 		}
 	]
 }
