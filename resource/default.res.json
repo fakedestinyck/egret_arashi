@@ -1,289 +1,294 @@
 {
-	"groups": [
+	"groups":[
 		{
-			"keys": "level_0001_background_png,l1_json,elementbg1_png,elementbg2_png,level_0005_foreground_png,level_0005_background_png,level_0004_foreground_png,level_0003_foreground_png,level_0002_foreground_png,level_0002_background_png,level_0001_foreground_png,e1_png,e3_png,e4_png,e5_png,e0_png,chanziactive_png,chanzi_png,zhenglieactive_png,zhenglie_png,zhenghangactive_png,zhenghang_png,tongsedisable_png,tongseactive_png,tongse_png,zhadan_png,zhadanactive_png,zhadandisable_png,chanzidisable_png,zhengliedisable_png,zhenghangdisable_png,number_fnt,number_png,numberdisable_fnt,numberdisable_png,checkmark_png,levelregbg_png,foucsmc_json,foucsmc_png,e0foucs_png,e1foucs_png,e2foucs_png,e3foucs_png,e4foucs_png,e5foucs_png,e2_png,gameovertitle_png,fail_png,success_png,konoso",
-			"name": "game"
+			"keys":"level_0001_background_png,l1_json,elementbg1_png,elementbg2_png,level_0005_foreground_png,level_0005_background_png,level_0004_foreground_png,level_0003_foreground_png,level_0002_foreground_png,level_0002_background_png,level_0001_foreground_png,e1_png,e3_png,e4_png,e5_png,e0_png,chanziactive_png,chanzi_png,zhenglieactive_png,zhenglie_png,zhenghangactive_png,zhenghang_png,tongsedisable_png,tongseactive_png,tongse_png,zhadan_png,zhadanactive_png,zhadandisable_png,chanzidisable_png,zhengliedisable_png,zhenghangdisable_png,number_fnt,numberdisable_fnt,checkmark_png,levelregbg_png,foucsmc_json,foucsmc_png,e0foucs_png,e1foucs_png,e2foucs_png,e3foucs_png,e4foucs_png,e5foucs_png,e2_png,gameovertitle_png,fail_png,success_png,konoso,l2_json,l3_json,l4_json,l5_json",
+			"name":"game"
 		},
 		{
-			"name": "preload",
-			"keys": "konoso_mp3"
+			"keys":"l3_json,l4_json,l5_json",
+			"name":"preload"
 		}
 	],
-	"resources": [
+	"resources":[
 		{
-			"url": "assets/bg.jpg",
-			"type": "image",
-			"name": "bg_jpg"
+			"name":"bg_jpg",
+			"type":"image",
+			"url":"assets/bg.jpg"
 		},
 		{
-			"url": "assets/egret_icon.png",
-			"type": "image",
-			"name": "egret_icon_png"
+			"name":"egret_icon_png",
+			"type":"image",
+			"url":"assets/egret_icon.png"
 		},
 		{
-			"url": "config/description.json",
-			"type": "json",
-			"name": "description_json"
+			"name":"description_json",
+			"type":"json",
+			"url":"config/description.json"
 		},
 		{
-			"url": "default.res.json",
-			"type": "json",
-			"name": "default.res_json"
+			"name":"default.res_json",
+			"type":"json",
+			"url":"default.res.json"
 		},
 		{
-			"url": "res/e1.png",
-			"type": "image",
-			"name": "e1_png"
+			"name":"e1_png",
+			"type":"image",
+			"url":"res/e1.png"
 		},
 		{
-			"url": "res/e3.png",
-			"type": "image",
-			"name": "e3_png"
+			"name":"e3_png",
+			"type":"image",
+			"url":"res/e3.png"
 		},
 		{
-			"url": "res/e4.png",
-			"type": "image",
-			"name": "e4_png"
+			"name":"e4_png",
+			"type":"image",
+			"url":"res/e4.png"
 		},
 		{
-			"url": "res/e5.png",
-			"type": "image",
-			"name": "e5_png"
+			"name":"e5_png",
+			"type":"image",
+			"url":"res/e5.png"
 		},
 		{
-			"url": "res/level_0001_background.png",
-			"type": "image",
-			"name": "level_0001_background_png"
+			"name":"level_0001_background_png",
+			"type":"image",
+			"url":"res/level_0001_background.png"
 		},
 		{
-			"url": "res/l1.json",
-			"type": "json",
-			"name": "l1_json"
+			"name":"l1_json",
+			"type":"json",
+			"url":"res/l1.json"
 		},
 		{
-			"url": "res/elementbg1.png",
-			"type": "image",
-			"name": "elementbg1_png"
+			"name":"elementbg1_png",
+			"type":"image",
+			"url":"res/elementbg1.png"
 		},
 		{
-			"url": "res/elementbg2.png",
-			"type": "image",
-			"name": "elementbg2_png"
+			"name":"elementbg2_png",
+			"type":"image",
+			"url":"res/elementbg2.png"
 		},
 		{
-			"url": "res/level_0005_foreground.png",
-			"type": "image",
-			"name": "level_0005_foreground_png"
+			"name":"level_0005_foreground_png",
+			"type":"image",
+			"url":"res/level_0005_foreground.png"
 		},
 		{
-			"url": "res/level_0001_foreground.png",
-			"type": "image",
-			"name": "level_0001_foreground_png"
+			"name":"level_0001_foreground_png",
+			"type":"image",
+			"url":"res/level_0001_foreground.png"
 		},
 		{
-			"url": "res/level_0002_background.png",
-			"type": "image",
-			"name": "level_0002_background_png"
+			"name":"level_0002_background_png",
+			"type":"image",
+			"url":"res/level_0002_background.png"
 		},
 		{
-			"url": "res/level_0002_foreground.png",
-			"type": "image",
-			"name": "level_0002_foreground_png"
+			"name":"level_0002_foreground_png",
+			"type":"image",
+			"url":"res/level_0002_foreground.png"
 		},
 		{
-			"url": "res/level_0003_foreground.png",
-			"type": "image",
-			"name": "level_0003_foreground_png"
+			"name":"level_0003_foreground_png",
+			"type":"image",
+			"url":"res/level_0003_foreground.png"
 		},
 		{
-			"url": "res/level_0004_foreground.png",
-			"type": "image",
-			"name": "level_0004_foreground_png"
+			"name":"level_0004_foreground_png",
+			"type":"image",
+			"url":"res/level_0004_foreground.png"
 		},
 		{
-			"url": "res/level_0005_background.png",
-			"type": "image",
-			"name": "level_0005_background_png"
+			"name":"level_0005_background_png",
+			"type":"image",
+			"url":"res/level_0005_background.png"
 		},
 		{
-			"url": "res/e0.png",
-			"type": "image",
-			"name": "e0_png"
+			"name":"e0_png",
+			"type":"image",
+			"url":"res/e0.png"
 		},
 		{
-			"url": "res/tongse.png",
-			"type": "image",
-			"name": "tongse_png"
+			"name":"tongse_png",
+			"type":"image",
+			"url":"res/tongse.png"
 		},
 		{
-			"url": "res/tongseactive.png",
-			"type": "image",
-			"name": "tongseactive_png"
+			"name":"tongseactive_png",
+			"type":"image",
+			"url":"res/tongseactive.png"
 		},
 		{
-			"url": "res/tongsedisable.png",
-			"type": "image",
-			"name": "tongsedisable_png"
+			"name":"tongsedisable_png",
+			"type":"image",
+			"url":"res/tongsedisable.png"
 		},
 		{
-			"url": "res/zhenghang.png",
-			"type": "image",
-			"name": "zhenghang_png"
+			"name":"zhenghang_png",
+			"type":"image",
+			"url":"res/zhenghang.png"
 		},
 		{
-			"url": "res/zhenghangactive.png",
-			"type": "image",
-			"name": "zhenghangactive_png"
+			"name":"zhenghangactive_png",
+			"type":"image",
+			"url":"res/zhenghangactive.png"
 		},
 		{
-			"url": "res/zhenglie.png",
-			"type": "image",
-			"name": "zhenglie_png"
+			"name":"zhenglie_png",
+			"type":"image",
+			"url":"res/zhenglie.png"
 		},
 		{
-			"url": "res/zhenglieactive.png",
-			"type": "image",
-			"name": "zhenglieactive_png"
+			"name":"zhenglieactive_png",
+			"type":"image",
+			"url":"res/zhenglieactive.png"
 		},
 		{
-			"url": "res/chanzi.png",
-			"type": "image",
-			"name": "chanzi_png"
+			"name":"chanzi_png",
+			"type":"image",
+			"url":"res/chanzi.png"
 		},
 		{
-			"url": "res/chanziactive.png",
-			"type": "image",
-			"name": "chanziactive_png"
+			"name":"chanziactive_png",
+			"type":"image",
+			"url":"res/chanziactive.png"
 		},
 		{
-			"url": "res/zhadan.png",
-			"type": "image",
-			"name": "zhadan_png"
+			"name":"zhadan_png",
+			"type":"image",
+			"url":"res/zhadan.png"
 		},
 		{
-			"url": "res/zhadanactive.png",
-			"type": "image",
-			"name": "zhadanactive_png"
+			"name":"zhadanactive_png",
+			"type":"image",
+			"url":"res/zhadanactive.png"
 		},
 		{
-			"url": "res/zhadandisable.png",
-			"type": "image",
-			"name": "zhadandisable_png"
+			"name":"zhadandisable_png",
+			"type":"image",
+			"url":"res/zhadandisable.png"
 		},
 		{
-			"url": "res/zhengliedisable.png",
-			"type": "image",
-			"name": "zhengliedisable_png"
+			"name":"zhengliedisable_png",
+			"type":"image",
+			"url":"res/zhengliedisable.png"
 		},
 		{
-			"url": "res/zhenghangdisable.png",
-			"type": "image",
-			"name": "zhenghangdisable_png"
+			"name":"zhenghangdisable_png",
+			"type":"image",
+			"url":"res/zhenghangdisable.png"
 		},
 		{
-			"url": "res/chanzidisable.png",
-			"type": "image",
-			"name": "chanzidisable_png"
+			"name":"chanzidisable_png",
+			"type":"image",
+			"url":"res/chanzidisable.png"
 		},
 		{
-			"url": "res/number.png",
-			"type": "image",
-			"name": "number_png"
+			"name":"number_fnt",
+			"type":"font",
+			"url":"res/number.fnt"
 		},
 		{
-			"url": "res/number.fnt",
-			"type": "font",
-			"name": "number_fnt"
+			"name":"numberdisable_fnt",
+			"type":"font",
+			"url":"res/numberdisable.fnt"
 		},
 		{
-			"url": "res/numberdisable.png",
-			"type": "image",
-			"name": "numberdisable_png"
+			"name":"checkmark_png",
+			"type":"image",
+			"url":"res/checkmark.png"
 		},
 		{
-			"url": "res/numberdisable.fnt",
-			"type": "font",
-			"name": "numberdisable_fnt"
+			"name":"levelregbg_png",
+			"type":"image",
+			"url":"res/levelregbg.png"
 		},
 		{
-			"url": "res/checkmark.png",
-			"type": "image",
-			"name": "checkmark_png"
+			"name":"foucsmc_json",
+			"type":"json",
+			"url":"res/foucsmc.json"
 		},
 		{
-			"url": "res/levelregbg.png",
-			"type": "image",
-			"name": "levelregbg_png"
+			"name":"foucsmc_png",
+			"type":"image",
+			"url":"res/foucsmc.png"
 		},
 		{
-			"url": "res/foucsmc.json",
-			"type": "json",
-			"name": "foucsmc_json"
+			"name":"e0foucs_png",
+			"type":"image",
+			"url":"res/e0foucs.png"
 		},
 		{
-			"url": "res/foucsmc.png",
-			"type": "image",
-			"name": "foucsmc_png"
+			"name":"e1foucs_png",
+			"type":"image",
+			"url":"res/e1foucs.png"
 		},
 		{
-			"url": "res/e0foucs.png",
-			"type": "image",
-			"name": "e0foucs_png"
+			"name":"e2foucs_png",
+			"type":"image",
+			"url":"res/e2foucs.png"
 		},
 		{
-			"url": "res/e1foucs.png",
-			"type": "image",
-			"name": "e1foucs_png"
+			"name":"e3foucs_png",
+			"type":"image",
+			"url":"res/e3foucs.png"
 		},
 		{
-			"url": "res/e2foucs.png",
-			"type": "image",
-			"name": "e2foucs_png"
+			"name":"e4foucs_png",
+			"type":"image",
+			"url":"res/e4foucs.png"
 		},
 		{
-			"url": "res/e3foucs.png",
-			"type": "image",
-			"name": "e3foucs_png"
+			"name":"e5foucs_png",
+			"type":"image",
+			"url":"res/e5foucs.png"
 		},
 		{
-			"url": "res/e4foucs.png",
-			"type": "image",
-			"name": "e4foucs_png"
+			"name":"e2_png",
+			"type":"image",
+			"url":"res/e2.png"
 		},
 		{
-			"url": "res/e5foucs.png",
-			"type": "image",
-			"name": "e5foucs_png"
+			"name":"gameovertitle_png",
+			"type":"image",
+			"url":"res/gameovertitle.png"
 		},
 		{
-			"url": "res/e2.png",
-			"type": "image",
-			"name": "e2_png"
+			"name":"fail_png",
+			"type":"image",
+			"url":"res/fail.png"
 		},
 		{
-			"url": "res/gameovertitle.png",
-			"type": "image",
-			"name": "gameovertitle_png"
+			"name":"success_png",
+			"type":"image",
+			"url":"res/success.png"
 		},
 		{
-			"url": "res/fail.png",
-			"type": "image",
-			"name": "fail_png"
+			"name":"konoso",
+			"type":"sound",
+			"url":"res/konoso.mp3"
 		},
 		{
-			"url": "res/success.png",
-			"type": "image",
-			"name": "success_png"
+			"name":"l2_json",
+			"type":"json",
+			"url":"res/l2.json"
 		},
 		{
-			"url": "res/konoso.mp3",
-			"type": "sound",
-			"name": "konoso"
+			"name":"l3_json",
+			"type":"json",
+			"url":"res/l3.json"
 		},
 		{
-			"name": "konoso_mp3",
-			"type": "sound",
-			"url": "res/konoso.mp3"
+			"name":"l4_json",
+			"type":"json",
+			"url":"res/l4.json"
+		},
+		{
+			"name":"l5_json",
+			"type":"json",
+			"url":"res/l5.json"
 		}
 	]
 }
