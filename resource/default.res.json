@@ -1,0 +1,299 @@
+{
+	"groups": [
+		{
+			"keys": "level_0001_background_png,l1_json,elementbg1_png,elementbg2_png,level_0005_foreground_png,level_0005_background_png,level_0004_foreground_png,level_0003_foreground_png,level_0002_foreground_png,level_0002_background_png,level_0001_foreground_png,e1_png,e3_png,e4_png,e5_png,e0_png,chanziactive_png,chanzi_png,zhenglieactive_png,zhenglie_png,zhenghangactive_png,zhenghang_png,tongsedisable_png,tongseactive_png,tongse_png,zhadan_png,zhadanactive_png,zhadandisable_png,chanzidisable_png,zhengliedisable_png,zhenghangdisable_png,number_fnt,numberdisable_fnt,checkmark_png,levelregbg_png,foucsmc_json,foucsmc_png,e0foucs_png,e1foucs_png,e2foucs_png,e3foucs_png,e4foucs_png,e5foucs_png,e2_png,gameovertitle_png,fail_png,success_png,konoso,l2_json,l3_json,l4_json,l5_json,l6_json",
+			"name": "game"
+		},
+		{
+			"keys": "l3_json,l4_json,l5_json,l6_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "default.res_json",
+			"type": "json",
+			"url": "default.res.json"
+		},
+		{
+			"name": "e1_png",
+			"type": "image",
+			"url": "res/e1.png"
+		},
+		{
+			"name": "e3_png",
+			"type": "image",
+			"url": "res/e3.png"
+		},
+		{
+			"name": "e4_png",
+			"type": "image",
+			"url": "res/e4.png"
+		},
+		{
+			"name": "e5_png",
+			"type": "image",
+			"url": "res/e5.png"
+		},
+		{
+			"name": "level_0001_background_png",
+			"type": "image",
+			"url": "res/level_0001_background.png"
+		},
+		{
+			"name": "l1_json",
+			"type": "json",
+			"url": "res/l1.json"
+		},
+		{
+			"name": "elementbg1_png",
+			"type": "image",
+			"url": "res/elementbg1.png"
+		},
+		{
+			"name": "elementbg2_png",
+			"type": "image",
+			"url": "res/elementbg2.png"
+		},
+		{
+			"name": "level_0005_foreground_png",
+			"type": "image",
+			"url": "res/level_0005_foreground.png"
+		},
+		{
+			"name": "level_0001_foreground_png",
+			"type": "image",
+			"url": "res/level_0001_foreground.png"
+		},
+		{
+			"name": "level_0002_background_png",
+			"type": "image",
+			"url": "res/level_0002_background.png"
+		},
+		{
+			"name": "level_0002_foreground_png",
+			"type": "image",
+			"url": "res/level_0002_foreground.png"
+		},
+		{
+			"name": "level_0003_foreground_png",
+			"type": "image",
+			"url": "res/level_0003_foreground.png"
+		},
+		{
+			"name": "level_0004_foreground_png",
+			"type": "image",
+			"url": "res/level_0004_foreground.png"
+		},
+		{
+			"name": "level_0005_background_png",
+			"type": "image",
+			"url": "res/level_0005_background.png"
+		},
+		{
+			"name": "e0_png",
+			"type": "image",
+			"url": "res/e0.png"
+		},
+		{
+			"name": "tongse_png",
+			"type": "image",
+			"url": "res/tongse.png"
+		},
+		{
+			"name": "tongseactive_png",
+			"type": "image",
+			"url": "res/tongseactive.png"
+		},
+		{
+			"name": "tongsedisable_png",
+			"type": "image",
+			"url": "res/tongsedisable.png"
+		},
+		{
+			"name": "zhenghang_png",
+			"type": "image",
+			"url": "res/zhenghang.png"
+		},
+		{
+			"name": "zhenghangactive_png",
+			"type": "image",
+			"url": "res/zhenghangactive.png"
+		},
+		{
+			"name": "zhenglie_png",
+			"type": "image",
+			"url": "res/zhenglie.png"
+		},
+		{
+			"name": "zhenglieactive_png",
+			"type": "image",
+			"url": "res/zhenglieactive.png"
+		},
+		{
+			"name": "chanzi_png",
+			"type": "image",
+			"url": "res/chanzi.png"
+		},
+		{
+			"name": "chanziactive_png",
+			"type": "image",
+			"url": "res/chanziactive.png"
+		},
+		{
+			"name": "zhadan_png",
+			"type": "image",
+			"url": "res/zhadan.png"
+		},
+		{
+			"name": "zhadanactive_png",
+			"type": "image",
+			"url": "res/zhadanactive.png"
+		},
+		{
+			"name": "zhadandisable_png",
+			"type": "image",
+			"url": "res/zhadandisable.png"
+		},
+		{
+			"name": "zhengliedisable_png",
+			"type": "image",
+			"url": "res/zhengliedisable.png"
+		},
+		{
+			"name": "zhenghangdisable_png",
+			"type": "image",
+			"url": "res/zhenghangdisable.png"
+		},
+		{
+			"name": "chanzidisable_png",
+			"type": "image",
+			"url": "res/chanzidisable.png"
+		},
+		{
+			"name": "number_fnt",
+			"type": "font",
+			"url": "res/number.fnt"
+		},
+		{
+			"name": "numberdisable_fnt",
+			"type": "font",
+			"url": "res/numberdisable.fnt"
+		},
+		{
+			"name": "checkmark_png",
+			"type": "image",
+			"url": "res/checkmark.png"
+		},
+		{
+			"name": "levelregbg_png",
+			"type": "image",
+			"url": "res/levelregbg.png"
+		},
+		{
+			"name": "foucsmc_json",
+			"type": "json",
+			"url": "res/foucsmc.json"
+		},
+		{
+			"name": "foucsmc_png",
+			"type": "image",
+			"url": "res/foucsmc.png"
+		},
+		{
+			"name": "e0foucs_png",
+			"type": "image",
+			"url": "res/e0foucs.png"
+		},
+		{
+			"name": "e1foucs_png",
+			"type": "image",
+			"url": "res/e1foucs.png"
+		},
+		{
+			"name": "e2foucs_png",
+			"type": "image",
+			"url": "res/e2foucs.png"
+		},
+		{
+			"name": "e3foucs_png",
+			"type": "image",
+			"url": "res/e3foucs.png"
+		},
+		{
+			"name": "e4foucs_png",
+			"type": "image",
+			"url": "res/e4foucs.png"
+		},
+		{
+			"name": "e5foucs_png",
+			"type": "image",
+			"url": "res/e5foucs.png"
+		},
+		{
+			"name": "e2_png",
+			"type": "image",
+			"url": "res/e2.png"
+		},
+		{
+			"name": "gameovertitle_png",
+			"type": "image",
+			"url": "res/gameovertitle.png"
+		},
+		{
+			"name": "fail_png",
+			"type": "image",
+			"url": "res/fail.png"
+		},
+		{
+			"name": "success_png",
+			"type": "image",
+			"url": "res/success.png"
+		},
+		{
+			"name": "konoso",
+			"type": "sound",
+			"url": "res/konoso.mp3"
+		},
+		{
+			"name": "l2_json",
+			"type": "json",
+			"url": "res/l2.json"
+		},
+		{
+			"name": "l3_json",
+			"type": "json",
+			"url": "res/l3.json"
+		},
+		{
+			"name": "l4_json",
+			"type": "json",
+			"url": "res/l4.json"
+		},
+		{
+			"name": "l5_json",
+			"type": "json",
+			"url": "res/l5.json"
+		},
+		{
+			"name": "l6_json",
+			"type": "json",
+			"url": "res/l6.json"
+		}
+	]
+}
